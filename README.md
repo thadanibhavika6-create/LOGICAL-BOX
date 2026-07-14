@@ -22,7 +22,8 @@ Exit Option:
 Allows user to quit the program safely.
 
 # SAMPLE OUTPUT
-![Sample Output](https://github.com/thadanibhavika6-create/LOGICAL-BOX/blob/main/sample%20output.png)
+![Sample Output](https://github.com/thadanibhavika6-create/LOGICAL-BOX/blob/main/sample%20output%20(2).png)
+
 
 
 
