@@ -23,7 +23,10 @@ Allows user to quit the program safely.
 
 ## Sample Output
 
+## Sample Output
+
 ![Sample Output](https://github.com/thadanibhavika6-create/LOGICAL-BOX/blob/main/sample%20output%20(3).png)
+
 
 
 ## video link
