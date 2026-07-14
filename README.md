@@ -24,7 +24,6 @@ Allows user to quit the program safely.
 
 ## Sample Output
 
-![Uploading sample output (3) (1).png…]()
 
 
 ## video link
