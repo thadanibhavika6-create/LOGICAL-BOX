@@ -21,14 +21,14 @@ Exit Option:
 
 Allows user to quit the program safely.
 
-## Sample Output
+## Sample OutputW
 
 ## Sample Output
 
 ![Sample Output](https://github.com/thadanibhavika6-create/LOGICAL-BOX/blob/main/sample%20output%20(3).png)
 
 ## video link
-https://drive.google.com/file/d/1Y0ateD7R7zafcquaFvL4qj8KTdjRcop6/view?usp=drive_link 
+[Watch video here](https://drive.google.com/file/d/1Y0ateD7R7zafcquaFvL4qj8KTdjRcop6/view?usp=drive_link) 
 
 
 
