@@ -28,7 +28,7 @@ Allows user to quit the program safely.
 ## video link
 [Watch video here](https://drive.google.com/file/d/1Y0ateD7R7zafcquaFvL4qj8KTdjRcop6/view?usp=drive_link) 
 
-![Uploading sample output (4).png…]()
+
 
 
 
